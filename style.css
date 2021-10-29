@@ -44,6 +44,7 @@ section h1, footer h1, nav a
     font-family: Dayrom, serif;
     font-weight: normal;
     text-transform: uppercase;
+    color: red;
 }
 
 /* Header */
@@ -143,7 +144,7 @@ nav a:hover
     background-color: rgba(24,24,24,0.8);
     color: white;
     font-size: 0.8em;
-    
+
 }
 
 .bouton_rouge
